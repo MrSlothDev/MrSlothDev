@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrSlothDev, a young developer passionate about the frontend.
+- 🦥 I have knowledge about html and css, I'm learning javascript, my goal is to become a great frontend developer.
+- 🧭 You can find me on social media as MrSlothDev.
